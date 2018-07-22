@@ -1,0 +1,50 @@
+@CHARSET "ISO-8859-1";
+*{
+padding:100px
+margin:auto;
+}
+#menu ul{
+list-style:none;
+}
+#menu ul li{
+margin:auto;
+background-color:gray;
+border:2px solid white;
+width:150px;
+height:30px;
+text-align:center;
+float:left;
+text-align:center;
+line-height:29px;
+border-radius:8px;
+}
+#menu ul li a{
+text-decoration:none;
+color:white;
+display:block;
+}
+#menu ul li a:hover{
+background-color:green;
+
+
+border-radius:8px;
+}
+#menu ul ul {
+position:absolute;
+display:none;
+
+}
+
+#menu ul li : hover > ul{
+display:block;
+}
+#menu ul li a: hover >{
+display:visibility;
+}
+#menu ul ul ul{
+margin-left:200px;
+top:0px;
+}
+
+
+ 

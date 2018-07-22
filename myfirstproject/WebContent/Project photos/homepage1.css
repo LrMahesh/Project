@@ -1,0 +1,25 @@
+body{
+text-align:center;
+bgcolor:yellow;
+}
+ h1{
+padding:20px;
+margin:auto;
+float:center;
+background-color:gray;
+width:750px;
+
+text-align:center;
+}
+body aside {
+float:right;
+
+padding-right:0px;
+
+margin-bottom:0px;
+
+margin-bottom:0px;
+}
+body aside ul{
+list-style:none;
+}

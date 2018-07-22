@@ -1,0 +1,13 @@
+#men ul{
+ list-style:none;
+ }
+ #men ul li{
+  background-color:red;
+  border:1px solid white;
+  width:120px;
+  height:35px;
+  text-align:center;
+  float:left;
+  margine:auto;
+  
+  }
